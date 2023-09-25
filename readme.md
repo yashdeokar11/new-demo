@@ -1,2 +1,2 @@
-Author - Daksh Gehlot
+Author - Yash Deokar
 CODING CLUB NMIMS X GDSC RCPIT
